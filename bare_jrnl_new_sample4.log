@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.6.4)  22 SEP 2024 20:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.6.4)  23 NOV 2024 23:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -455,160 +455,209 @@ LaTeX Info: Redefining \nameref on input line 23.
 \@outlinefile=\write3
 \openout3 = `bare_jrnl_new_sample4.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 67.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
-Underfull \hbox (badness 2126) in paragraph at lines 69--70
+Underfull \hbox (badness 2126) in paragraph at lines 62--63
 []\T1/ptm/m/n/10 We show-case the sys-tem's real-world ap-pli-ca-bil-ity
  []
 
-[2]
-<images/fig1.png, id=163, 1190.57297pt x 510.78328pt>
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+] [2]
+<images/fig1.png, id=158, 1190.57297pt x 510.78328pt>
 File: images/fig1.png Graphic file (type png)
 <use images/fig1.png>
-Package pdftex.def Info: images/fig1.png  used on input line 133.
+Package pdftex.def Info: images/fig1.png  used on input line 111.
 (pdftex.def)             Requested size: 516.0pt x 221.37056pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3]
-<images/fig2.png, id=191, 1129.97156pt x 660.59297pt>
+ [3]
+<images/fig2.png, id=192, 1129.97156pt x 660.59297pt>
 File: images/fig2.png Graphic file (type png)
 <use images/fig2.png>
-Package pdftex.def Info: images/fig2.png  used on input line 153.
+Package pdftex.def Info: images/fig2.png  used on input line 146.
 (pdftex.def)             Requested size: 516.0pt x 301.65889pt.
+ [4 <./images/fig1.png>]
+<images/fig3.png, id=216, 944.02687pt x 671.50874pt>
+File: images/fig3.png Graphic file (type png)
+<use images/fig3.png>
+Package pdftex.def Info: images/fig3.png  used on input line 174.
+(pdftex.def)             Requested size: 377.60405pt x 268.59874pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4 <./images/fig1.png>]
 
-LaTeX Warning: Reference `fig3' on page 5 undefined on input line 178.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--264
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 []|\T1/ptm/m/n/8 Gets CPU, RAM,
  []
 
 
-Overfull \hbox (2.59998pt too wide) in paragraph at lines 245--285
+Overfull \hbox (2.59998pt too wide) in paragraph at lines 247--287
 [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5 <./images/fig2.png>]
 
-LaTeX Warning: Reference `fig4' on page 6 undefined on input line 297.
+Underfull \vbox (badness 1122) has occurred while \output is active []
 
-
-LaTeX Warning: Reference `fig5' on page 6 undefined on input line 314.
-
-
-LaTeX Warning: Reference `fig6' on page 6 undefined on input line 324.
-
-[6]
-
-LaTeX Warning: Reference `fig7' on page 7 undefined on input line 339.
-
-
-LaTeX Warning: Reference `fig8' on page 7 undefined on input line 361.
-
-
-LaTeX Warning: Reference `fig9' on page 7 undefined on input line 366.
-
-[7]
-
-LaTeX Warning: Reference `fig10' on page 8 undefined on input line 378.
+ [5 <./images/fig2.png>]
+<images/fig4.png, id=234, 1167.61218pt x 666.61546pt>
+File: images/fig4.png Graphic file (type png)
+<use images/fig4.png>
+Package pdftex.def Info: images/fig4.png  used on input line 300.
+(pdftex.def)             Requested size: 516.0pt x 294.60352pt.
+ [6 <./images/fig3.png>]
+<images/fig5.png, id=245, 1160.08406pt x 428.35031pt>
+File: images/fig5.png Graphic file (type png)
+<use images/fig5.png>
+Package pdftex.def Info: images/fig5.png  used on input line 329.
+(pdftex.def)             Requested size: 516.0pt x 190.52704pt.
+<images/fig6.png, id=247, 917.67844pt x 647.41875pt>
+File: images/fig6.png Graphic file (type png)
+<use images/fig6.png>
+Package pdftex.def Info: images/fig6.png  used on input line 347.
+(pdftex.def)             Requested size: 249.48138pt x 176.00073pt.
 
 
-LaTeX Warning: Reference `fig11' on page 8 undefined on input line 386.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/fig7.png, id=250, 749.04843pt x 656.4525pt>
+File: images/fig7.png Graphic file (type png)
+<use images/fig7.png>
+Package pdftex.def Info: images/fig7.png  used on input line 367.
+(pdftex.def)             Requested size: 516.0pt x 452.23152pt.
+[7 <./images/fig4.png>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 377.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [8 <./images/fig5.png> <./images/fig6.png>]
+<images/fig8.png, id=285, 1056.94875pt x 642.14906pt>
+File: images/fig8.png Graphic file (type png)
+<use images/fig8.png>
+Package pdftex.def Info: images/fig8.png  used on input line 399.
+(pdftex.def)             Requested size: 249.48138pt x 151.57133pt.
 
 
-LaTeX Warning: Reference `fig12' on page 8 undefined on input line 398.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `fig13' on page 8 undefined on input line 404.
+LaTeX Warning: Text page 9 contains only floats.
 
-[8]
+[9 <./images/fig7.png> <./images/fig8.png>]
+<images/fig9.png, id=296, 923.32452pt x 636.50298pt>
+File: images/fig9.png Graphic file (type png)
+<use images/fig9.png>
+Package pdftex.def Info: images/fig9.png  used on input line 412.
+(pdftex.def)             Requested size: 249.48138pt x 171.97464pt.
+<images/fig10.png, id=300, 662.85141pt x 546.16547pt>
+File: images/fig10.png Graphic file (type png)
+<use images/fig10.png>
+Package pdftex.def Info: images/fig10.png  used on input line 429.
+(pdftex.def)             Requested size: 212.11678pt x 174.7765pt.
+<images/fig11.png, id=303, 569.12625pt x 417.43452pt>
+File: images/fig11.png Graphic file (type png)
+<use images/fig11.png>
+Package pdftex.def Info: images/fig11.png  used on input line 448.
+(pdftex.def)             Requested size: 249.48138pt x 182.99022pt.
 
-LaTeX Warning: Reference `fig14' on page 9 undefined on input line 424.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./images/fig9.png> <./images/fig10.png>]
+<images/fig12.png, id=317, 572.1375pt x 461.09766pt>
+File: images/fig12.png Graphic file (type png)
+<use images/fig12.png>
+Package pdftex.def Info: images/fig12.png  used on input line 467.
+(pdftex.def)             Requested size: 217.4145pt x 175.21892pt.
 
 
-LaTeX Warning: Reference `fig15' on page 9 undefined on input line 426.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9] (./bare_jrnl_new_sample4.bbl [10]
+<images/fig13.png, id=319, 568.37344pt x 418.18735pt>
+File: images/fig13.png Graphic file (type png)
+<use images/fig13.png>
+Package pdftex.def Info: images/fig13.png  used on input line 480.
+(pdftex.def)             Requested size: 249.48138pt x 183.56271pt.
+[11 <./images/fig11.png> <./images/fig12.png> <./images/fig13.png>]
+<images/fig14.png, id=338, 367.3725pt x 397.485pt>
+File: images/fig14.png Graphic file (type png)
+<use images/fig14.png>
+Package pdftex.def Info: images/fig14.png  used on input line 507.
+(pdftex.def)             Requested size: 146.94638pt x 158.99118pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/fig15.png, id=340, 463.7325pt x 395.97937pt>
+File: images/fig15.png Graphic file (type png)
+<use images/fig15.png>
+Package pdftex.def Info: images/fig15.png  used on input line 518.
+(pdftex.def)             Requested size: 185.4897pt x 158.38895pt.
+[12 <./images/fig14.png> <./images/fig15.png>] (./bare_jrnl_new_sample4.bbl [13]
 Underfull \hbox (badness 1527) in paragraph at lines 161--165
 []\T1/ptm/m/n/10 N. Zhong, Y. Wang, R. Xiong, Y. Zheng, Y. Li,
  []
 
-[11]
+[14]
 Underfull \hbox (badness 3872) in paragraph at lines 372--375
 []\T1/ptm/m/n/10 Ruman, ``Set-ting top-k, top-p and tem-per-a-ture in
  []
 
-)
-<images/author1.png, id=328, 227.34938pt x 289.83281pt>
+) [15]
+<images/author1.png, id=401, 227.34938pt x 289.83281pt>
 File: images/author1.png Graphic file (type png)
 <use images/author1.png>
-Package pdftex.def Info: images/author1.png  used on input line 455.
+Package pdftex.def Info: images/author1.png  used on input line 553.
 (pdftex.def)             Requested size: 72.27107pt x 90.33813pt.
 File: images/author1.png Graphic file (type png)
 <use images/author1.png>
-Package pdftex.def Info: images/author1.png  used on input line 455.
+Package pdftex.def Info: images/author1.png  used on input line 553.
 (pdftex.def)             Requested size: 72.27107pt x 90.33813pt.
-<images/author2.jpeg, id=331, 830.10126pt x 948.54375pt>
+<images/author2.jpeg, id=404, 830.10126pt x 948.54375pt>
 File: images/author2.jpeg Graphic file (type jpg)
 <use images/author2.jpeg>
-Package pdftex.def Info: images/author2.jpeg  used on input line 460.
+Package pdftex.def Info: images/author2.jpeg  used on input line 558.
 (pdftex.def)             Requested size: 72.26129pt x 82.57184pt.
 File: images/author2.jpeg Graphic file (type jpg)
 <use images/author2.jpeg>
-Package pdftex.def Info: images/author2.jpeg  used on input line 460.
+Package pdftex.def Info: images/author2.jpeg  used on input line 558.
 (pdftex.def)             Requested size: 72.26129pt x 82.57184pt.
-<images/author3.jpg, id=334, 79.1685pt x 105.4485pt>
+<images/author3.jpg, id=407, 79.1685pt x 105.4485pt>
 File: images/author3.jpg Graphic file (type jpg)
 <use images/author3.jpg>
-Package pdftex.def Info: images/author3.jpg  used on input line 465.
+Package pdftex.def Info: images/author3.jpg  used on input line 563.
 (pdftex.def)             Requested size: 67.82504pt x 90.33961pt.
 File: images/author3.jpg Graphic file (type jpg)
 <use images/author3.jpg>
-Package pdftex.def Info: images/author3.jpg  used on input line 465.
+Package pdftex.def Info: images/author3.jpg  used on input line 563.
 (pdftex.def)             Requested size: 67.82504pt x 90.33961pt.
- [12 <./images/author1.png> <./images/author2.jpeg> <./images/author3.jpg>] (./bare_jrnl_new_sample4.aux)
+ [16
 
-LaTeX Warning: There were undefined references.
-
+ <./images/author1.png> <./images/author2.jpeg> <./images/author3.jpg>] (./bare_jrnl_new_sample4.aux)
 Package rerunfilecheck Info: File `bare_jrnl_new_sample4.out' has not changed.
 (rerunfilecheck)             Checksum: 6D0F4D30514B149BB3948E1B16341F6F;3403.
  ) 
 Here is how much of TeX's memory you used:
- 12323 strings out of 478287
- 200872 string characters out of 5849290
- 508117 words of memory out of 5000000
- 30218 multiletter control sequences out of 15000+600000
- 591262 words of font info for 152 fonts, out of 8000000 for 9000
+ 12429 strings out of 478287
+ 202700 string characters out of 5849290
+ 508288 words of memory out of 5000000
+ 30294 multiletter control sequences out of 15000+600000
+ 590948 words of font info for 151 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 60i,14n,63p,2038b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,14n,63p,2019b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_jrnl_new_sample4.pdf (12 pages, 9863056 bytes).
+Output written on bare_jrnl_new_sample4.pdf (16 pages, 15608200 bytes).
 PDF statistics:
- 391 PDF objects out of 1000 (max. 8388607)
- 351 compressed objects within 4 object streams
- 101 named destinations out of 1000 (max. 500000)
- 230 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 465 PDF objects out of 1000 (max. 8388607)
+ 395 compressed objects within 4 object streams
+ 118 named destinations out of 1000 (max. 500000)
+ 295 words of extra memory for PDF output out of 10000 (max. 10000000)
 
